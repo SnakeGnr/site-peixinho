@@ -20,13 +20,13 @@
   </head>
   <body>
         <?php
-        include_once "navbar2.php"; 
+        include_once "navbar.php"; 
         ?>
   
-       <?php
-        include_once "incio.php"; 
-       ?>
-            
+     <?php
+      include_once "inicio.php"; 
+      ?>
+         
       <?php
       include_once "footer.php"; 
       ?>
